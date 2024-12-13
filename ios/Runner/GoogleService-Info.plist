@@ -3,6 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
+<<<<<<< HEAD
 	<string>AIzaSyDxUp7L9DdTROC7tesEUtJ3DA-9q5I6dMs</string>
 	<key>GCM_SENDER_ID</key>
 	<string>364417525764</string>
@@ -14,6 +15,19 @@
 	<string>curso-emeron-flutter-8b77b</string>
 	<key>STORAGE_BUCKET</key>
 	<string>curso-emeron-flutter-8b77b.firebasestorage.app</string>
+=======
+	<string>AIzaSyAJrlfnd-g5JHqL93GFxLeo6lJEsAaEJus</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1003164058180</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.emeron</string>
+	<key>PROJECT_ID</key>
+	<string>curso-emeron-flutter</string>
+	<key>STORAGE_BUCKET</key>
+	<string>curso-emeron-flutter.firebasestorage.app</string>
+>>>>>>> upstream/main
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +39,10 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
+<<<<<<< HEAD
 	<string>1:364417525764:ios:5edf886e1925d5bb102d51</string>
+=======
+	<string>1:1003164058180:ios:6180dcbe0843244c363211</string>
+>>>>>>> upstream/main
 </dict>
 </plist>

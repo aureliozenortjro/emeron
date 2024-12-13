@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364417525764",
+    "project_id": "curso-emeron-flutter-8b77b",
+    "storage_bucket": "curso-emeron-flutter-8b77b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364417525764:android:783b55c3c2926fbf102d51",
+        "android_client_info": {
+          "package_name": "com.emeron.teste.Aurelio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEjM9AezfJs4MEuqBbdw0E-Ki0bEbY6FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

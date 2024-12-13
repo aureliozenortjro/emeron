@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDxUp7L9DdTROC7tesEUtJ3DA-9q5I6dMs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>364417525764</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.emeron.teste.Aurelio</string>
+	<key>PROJECT_ID</key>
+	<string>curso-emeron-flutter-8b77b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>curso-emeron-flutter-8b77b.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:364417525764:ios:5edf886e1925d5bb102d51</string>
+</dict>
+</plist>
